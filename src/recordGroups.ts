@@ -1,6 +1,7 @@
 import fs from 'fs'
 import { dataDir } from './constants'
 import { Group } from './types'
+import { createObjectCsvWriter } from 'csv-writer'
 import preliminaryAddresses from './data/preliminaryAddresses'
 import eliminatedGroups from './data/eliminatedGroups'
 import customGroups from './data/customGroups'
@@ -8,6 +9,7 @@ import customGroups from './data/customGroups'
 function recordGroups (groups: Group[]) {
   writeGroupsToJson(groups)
   writeeligibleAddressesToFile(groups)
+  writeEliminatedSybilAttackersToFile()
 }
 
 function writeGroupsToJson (sortedGroups: Group[]) {
@@ -57,6 +59,42 @@ function writeeligibleAddressesToFile (sortedGroups: Group[]) {
   eligibleAddresses.forEach(address => {
     fs.writeFileSync(eligibleAddressesLocation, `${address}\n`, { flag: 'a' })
   })
+}
+
+async function writeEliminatedSybilAttackersToFile () {
+  const preliminary: string[] = []
+  for (const address in preliminaryAddresses) {
+    preliminary.push(address)
+  }
+
+  const dataPath = `${dataDir}/eligibleAddresses.txt`
+  const eligibleAddresses: string[] = fs.readFileSync(dataPath).toString().split('\n')
+
+  const eligible: Record<string, boolean> = {}
+  for (const address of eligibleAddresses) {
+    eligible[address] = true
+  }
+
+  const sybilAttackers: string[] = []
+  for (const address of preliminary) {
+    if (eligible[address]) continue
+    sybilAttackers.push(address)
+  }
+
+  // Write CSV
+  const csvLocation = `${dataDir}/eliminatedSybilAttackers.csv`
+  const csvWriter = createObjectCsvWriter({
+    path: csvLocation,
+    header: [
+      { id: 'address', title: 'address' }
+    ]
+  })
+
+  for (const address of sybilAttackers) {
+    await csvWriter.writeRecords([{
+      address
+    }])
+  }
 }
 
 export default recordGroups
