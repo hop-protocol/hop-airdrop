@@ -3,14 +3,14 @@ import customGroups from '../data/customGroups'
 const finalDistribution = require('../data/finalDistribution.json')
 
 async function getSybilReportTokenAmount () {
-  const topAddress = ''
-  if (!topAddress) {
-    throw new Error('Please specify the top address of a custom group.')
+  const groupId = 0
+  if (!groupId) {
+    throw new Error('Please specify the groupId of a custom group.')
   }
 
   let eliminatedAddresses: string[] = []
   for (const customGroup of customGroups) {
-    if (customGroup.topAddress === topAddress) {
+    if (customGroup.groupId === groupId) {
       eliminatedAddresses = customGroup.preliminaryAddresses
     }
   }
