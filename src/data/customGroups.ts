@@ -418,6 +418,7 @@ const customGroups: Group[] = [
   {
     groupId: 111110, // GH issue #3
     topAddress: '0xdeaa7f3431f22caeca6f6abdf0e1be1d6f6d7b9f',
+    tokensAwarded: '81216.103003940216408558',
     preliminaryAddresses: [
       '0x77a1e52c129f446a8e7c75fa5ac21a170e82a72f',
       '0xb64d7e6477c7e8b36e2e71707fa850fcb18319bc',

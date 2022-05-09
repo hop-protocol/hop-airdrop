@@ -1,5 +1,5 @@
 import fs from 'fs'
-import { utils } from 'ethers'
+import { BigNumber, utils } from 'ethers'
 import {
   dataDir,
   startDate,
@@ -10,6 +10,7 @@ import {
 } from './constants'
 import { createObjectCsvWriter } from 'csv-writer'
 import addressMetadata from './data/addressMetadata'
+import customGroups from './data/customGroups'
 import hopUserTimestamps from './data/hopUserTimestamps'
 import lpDistribution from './data/lpDistribution'
 
@@ -67,7 +68,9 @@ async function calcFinalDistribution () {
     }
   })
 
-  const baseAirdropTokens = totalBridgeUserTokens.div(Math.ceil(totalMultipliers))
+  const totalTokensAwarded = getTotalTokensAwarded()
+  const totalRemainingBridgeUserTokens = totalBridgeUserTokens.sub(totalTokensAwarded)
+  const baseAirdropTokens = totalRemainingBridgeUserTokens.div(Math.ceil(totalMultipliers))
   console.log('baseAirdropTokens', baseAirdropTokens.toString())
 
   addresses.forEach(address => {
@@ -167,6 +170,18 @@ function getVolumeMultiplier (address: string) {
   }
 
   return 1
+}
+
+function getTotalTokensAwarded (): BigNumber {
+  let totalTokensAwarded: BigNumber = BigNumber.from('0')
+  for (const customGroup of customGroups) {
+    if (customGroup.tokensAwarded) {
+      const tokensAwarded = parseUnits(customGroup.tokensAwarded)
+      totalTokensAwarded = totalTokensAwarded.add(tokensAwarded)
+    }
+  }
+
+  return totalTokensAwarded
 }
 
 export default calcFinalDistribution

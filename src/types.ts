@@ -12,6 +12,7 @@ export type Group = {
   topAddress?: string
   preliminaryAddresses: string[]
   addresses: string[]
+  tokensAwarded?: string
 }
 
 export type Groups = { [key: number]: Group }
