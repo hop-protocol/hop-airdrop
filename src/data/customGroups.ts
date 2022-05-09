@@ -8,7 +8,8 @@ const customGroups: Group[] = [
   },
   {
     groupId: 888888,
-    topAddress: '0x706d961ab69d54a0fcbaa13e77842279a5724139', // ENS bot-catching proposal addresses
+    topAddress: '0x706d961ab69d54a0fcbaa13e77842279a5724139',
+    note: 'ENS bot-catching proposal addresses',
     preliminaryAddresses: [
       '0x1e7e74169d9b13291d4bc70f09064e019f074123',
       '0xc747f999f8656a3fc8cc6bb6401f043e3f934c56',
@@ -297,7 +298,8 @@ const customGroups: Group[] = [
   },
   {
     groupId: 777777,
-    topAddress: '0x2a045ab20980c3f14bf5db116bc6f89e9d000a0d', // Disperse/Multisender recipients
+    topAddress: '0x2a045ab20980c3f14bf5db116bc6f89e9d000a0d',
+    note: 'Disperse/Multisender recipients',
     preliminaryAddresses: [
       '0x04269426dd2224b030ead696188eedbeae93d481',
       '0x05fdaf0d7c8e6977f2bcb6b881da84665a9cf510',
@@ -416,7 +418,8 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111110, // GH issue #3
+    groupId: 111110,
+    note: 'GH issue #3',
     topAddress: '0xdeaa7f3431f22caeca6f6abdf0e1be1d6f6d7b9f',
     tokensAwarded: '81216.103003940216408558',
     preliminaryAddresses: [
