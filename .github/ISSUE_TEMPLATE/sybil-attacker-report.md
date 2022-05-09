@@ -10,7 +10,9 @@ assignees: ''
 # Related Addresses
 
 <!--
-Provide a list of related addresses that are currently eligible for the Hop airdrop. The list must contain at least 20 eligible addresses at the time of review or it will not be considered. Reports will be evaluated on a first-come, first-serve basis.
+Provide a list of related addresses that are currently eligible for the Hop bridge user airdrop. Reports related to the Hop liquidity provider airdrop will not be considered since the liquidity provider airdrop was based on the amount and time liquidity was provided and does not need Sybil resistance.
+
+The list must contain at least 20 eligible addresses at the time of review or it will not be considered. The eligible address list can be found here: https://raw.githubusercontent.com/hop-protocol/hop-airdrop/master/src/data/eligibleAddresses.txt. Reports will be evaluated on a first-come, first-serve basis.
 
 Example:
 ```
