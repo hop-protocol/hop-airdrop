@@ -25,17 +25,22 @@ async function getAddressesOnEligibleList () {
     .split('\n')
     .filter(a => !!a)
 
+  const ineligibleAddresses: string[] = []
   let numIncluded = 0
   addressSet.forEach(address => {
     if (eligibleAddresses.includes(address)) {
       numIncluded++
+      console.log(address)
       logGroupName(address)
+    } else {
+      ineligibleAddresses.push(address)
     }
   })
 
-  console.log(`${numIncluded} out of ${addresses.length}`)
+  console.log(`\n\n${numIncluded} out of ${addresses.length}`)
   console.log('Top addresses of groups:', groupNames)
   logDuplicates(addresses)
+  logIneligibleAddresses(ineligibleAddresses)
 }
 
 function logGroupName (address: string) {
@@ -58,7 +63,11 @@ function logDuplicates (addresses: string[]) {
     uniqueValues[address] = true
   }
 
-  console.log(`Duplicate addresses:\n${duplicateValues}`)
+  console.log(`\nDuplicate addresses:\n${duplicateValues.length === 0 ? 'NA' : duplicateValues}`)
+}
+
+function logIneligibleAddresses (ineligibleAddresses: string[]) {
+  console.log(`\nIneligible addresses:\n${ineligibleAddresses.length === 0 ? 'NA' : ineligibleAddresses}`)
 }
 
 getAddressesOnEligibleList()
