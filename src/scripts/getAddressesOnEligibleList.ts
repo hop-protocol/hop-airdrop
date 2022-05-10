@@ -13,23 +13,29 @@ async function getAddressesOnEligibleList () {
     throw new Error('Please add addresses to review')
   }
 
+  // Only use unique addresses
+  const addressSet: Set<string> = new Set()
+  for (let address of addresses) {
+    address = address.toLocaleLowerCase()
+    addressSet.add(address)
+  }
+
   const eligibleAddresses: string[] = fs.readFileSync(`${dataDir}/eligibleAddresses.txt`)
     .toString()
     .split('\n')
     .filter(a => !!a)
 
   let numIncluded = 0
-  for (let address of addresses) {
-    address = address.toLocaleLowerCase()
+  addressSet.forEach(address => {
     if (eligibleAddresses.includes(address)) {
       numIncluded++
       logGroupName(address)
     }
-  }
+  })
 
   console.log(`${numIncluded} out of ${addresses.length}`)
-
   console.log('Top addresses of groups:', groupNames)
+  logDuplicates(addresses)
 }
 
 function logGroupName (address: string) {
@@ -39,6 +45,20 @@ function logGroupName (address: string) {
       groupNames.add(group.groupName)
     }
   }
+}
+
+function logDuplicates (addresses: string[]) {
+  const duplicateValues: string[] = []
+  const uniqueValues: Record<string, boolean> = {}
+  for (const address of addresses) {
+    if (uniqueValues[address]) {
+      duplicateValues.push(address)
+    }
+
+    uniqueValues[address] = true
+  }
+
+  console.log(`Duplicate addresses:\n${duplicateValues}`)
 }
 
 getAddressesOnEligibleList()
