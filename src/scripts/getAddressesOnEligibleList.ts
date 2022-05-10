@@ -19,7 +19,8 @@ async function getAddressesOnEligibleList () {
     .filter(a => !!a)
 
   let numIncluded = 0
-  for (const address of addresses) {
+  for (let address of addresses) {
+    address = address.toLocaleLowerCase()
     if (eligibleAddresses.includes(address)) {
       numIncluded++
       logGroupName(address)
