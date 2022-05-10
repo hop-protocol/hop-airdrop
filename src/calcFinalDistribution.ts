@@ -71,7 +71,7 @@ async function calcFinalDistribution () {
   const totalTokensAwarded = getTotalTokensAwarded()
   const totalRemainingBridgeUserTokens = totalBridgeUserTokens.sub(totalTokensAwarded)
   const baseAirdropTokens = totalRemainingBridgeUserTokens.div(Math.ceil(totalMultipliers))
-  console.log('baseAirdropTokens', baseAirdropTokens.toString())
+  logBaseAirdropTokens(baseAirdropTokens)
 
   addresses.forEach(address => {
     const data = addressData[address]
@@ -182,6 +182,18 @@ function getTotalTokensAwarded (): BigNumber {
   }
 
   return totalTokensAwarded
+}
+
+function logBaseAirdropTokens (baseAirdropTokens: BigNumber): void {
+  console.log('baseAirdropTokens', baseAirdropTokens.toString())
+
+  // Write JSON
+  const data = { amount: baseAirdropTokens.toString() }
+  const baseAirdropTokensLocation = `${dataDir}/baseAirdropTokens.json`
+  if (fs.existsSync(baseAirdropTokensLocation)) {
+    fs.unlinkSync(baseAirdropTokensLocation)
+  }
+  fs.writeFileSync(baseAirdropTokensLocation, JSON.stringify(data, null, 2), 'utf-8')
 }
 
 export default calcFinalDistribution
