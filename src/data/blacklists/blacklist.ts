@@ -1137,6 +1137,22 @@ const blacklist: Record<string, boolean> = {
   '0x21a135dbe868a9a147d02f8617d63cd1d0d97dc8': true, // non-bot user
   '0x66227181455f5ee6ba4cc270b0dd82d402829ae8': true, // non-bot user
   '0x6dd6e20a0969782468718d5d8f35defd3d2f1db3': true, // non-bot user
+  '0x7d53911a5545f392e9029ed23efd786e8cf9e9f0': true, // non-bot user
+  '0x866f12cee448fef8769c6b58876fdcd382b4f18a': true, // non-bot user
+  '0x1bfc5d3d41e78ed1f761876a00c596c40c481e03': true, // non-bot user
+  '0x0f46540678c7e6d2ef983b382cc07fa815ab148c': true, // non-bot user
+  '0xa5b41e75941c2addd039d8c7d186072731393e89': true, // non-bot user
+  '0x7854163b1b0d24e77dca702b97b5cc33e0f83dcb': true, // non-bot user
+  '0x89e03e7980c92fd81ed3a9b72f5c73fdf57e5e6d': true, // non-bot user
+  '0x1846a01de69da70bfb3d32cd14e8a2cd414b42af': true, // non-bot user
+  '0xad8db6191fd404d798ee9d12e4cc37f4501a7ed1': true, // non-bot user
+  '0xdf627f524a24212acb573e8b1ae5f47e6ab83f69': true, // non-bot user
+  '0xecd7c4c41d32915b233cf44786be7a7612af7d69': true, // non-bot user
+  '0xfb15339d187a76af62698f73d700e1f8536f03bd': true, // non-bot user
+  '0x60d4dd03fca377816c959ff89033ffc8af4efad2': true, // non-bot user
+  '0x240df0da944c11428eb9f8ad197cc211fd8d82ef': true, // non-bot user
+  '0xd4fc1974bfb6721785ca25828711d76a0fc2fea3': true, // non-bot user
+  '0xb6ca7a7c6034a8219af7ddb49739bd70ac62b20a': true, // non-bot user
   '0x8314125c8b68af2afd0d151eb4a551e88128a2ae': true, // thales
   '0x7e4a8391c728fed9069b2962699ab416628b19fa': true, // dharma deployer
   '0x4b5922abf25858d012d12bb1184e5d3d0b6d6be4': true, // verify nifty deployer

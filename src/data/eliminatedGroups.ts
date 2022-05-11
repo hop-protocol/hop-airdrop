@@ -54,7 +54,7 @@ const eliminatedGroups: Record<string, boolean> = {
   '0x1933fcea1291ae5d3817c3ee62407ff686a0eb3b': true,
   '0x1ae799f6a41270ed8ba9644dca1ae7f7378d7fcf': true,
   '0x1af58f0080068cbd200f7045cb9ea2fdf35cf628': true,
-  '0x1bfc5d3d41e78ed1f761876a00c596c40c481e03': true,
+  '0xf6ff625cf5683a3c49ed6c0a8c3bd49ed447d0d9': true,
   '0x1ca6750d06f54ce7cc00ba3a06705403fa8d7628': true,
   '0x1d93b808ed38295a26a09af35c1e201edd8642ec': true,
   '0x1e5242669ccaabe430398074a507675bbe680996': true,
@@ -78,7 +78,6 @@ const eliminatedGroups: Record<string, boolean> = {
   '0x27d4a79f9096f1b337de23d089d27c0eca313979': true,
   '0x28133c53277657c5a9ffc8e870182eedddf200b8': true,
   '0x281b36368f0702649d1639f47ee71b5a0d1d19c6': true,
-  '0x28df359ec0a70c354e050c7abb7f2cefc517e2e9': true,
   '0x29213292e606ebc5fbc481172d5ada5802315c60': true,
   '0x292877b8dbd74a2447978e6edf16bfaf0a38348d': true,
   '0x29a94ac69248b4ec0b7e6247966c93f88b0c7da7': true,
@@ -177,7 +176,6 @@ const eliminatedGroups: Record<string, boolean> = {
   '0x5e84a956bc4f411b2f7fcd4b75333fe667839074': true,
   '0x5ff45127b0329ff03b08272d267c3752d31c8087': true,
   '0x6052daa804cd4a5e4dc914fb2868b62117957bac': true,
-  '0x60d4dd03fca377816c959ff89033ffc8af4efad2': true,
   '0x610baa7ae2df0e3e505f84984f2ef0abcda42fd4': true,
   '0x61314d0e9de7550f8f7c504a52262ef8472561d5': true,
   '0x619f2cb450355f4dabbde26452ea2ec1feb46e9c': true,
@@ -451,7 +449,6 @@ const eliminatedGroups: Record<string, boolean> = {
   '0xf9688b0e5f2ddb08f69251027fc1c97ffe30710d': true,
   '0xfa8f6a36dfda118cb81a4961069bd38b91aa786e': true,
   '0xfab077807ecf41bd9c173b635cb8dbf0d9f1bfb1': true,
-  '0xfb15339d187a76af62698f73d700e1f8536f03bd': true,
   '0xfc0591893b0bdb4322d25bdd43904aa9ab137140': true,
   '0xfc276e8d35f63cde0b2b5887cba83ab2ea5f62a1': true,
   '0xfe3142024baae2a07e257d67bf25492ef414f351': true,
@@ -460,6 +457,8 @@ const eliminatedGroups: Record<string, boolean> = {
   '0xff7b5469f1703eb9c54297db9f56e1d8aa4d60e5': true,
   '0xff9a5d2347ff141f4e9e922c7640b5077ed12e69': true,
   '0xfff4da66c6561325d94beafd04c0957f3bfffcf7': true,
+  '0x729d020a090e1bfef242e7e614c30a617e642fa6': true,
+  '0x3a5d1c99b333493c26cdd0267825c9ddd88b22a0': true,
 }
 
 export default eliminatedGroups
