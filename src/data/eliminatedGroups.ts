@@ -118,7 +118,6 @@ const eliminatedGroups: Record<string, boolean> = {
   '0x3d922b403ce2fb926de20cc1832264123065728b': true,
   '0x3e02c930ab4bbd97199e104cb72f2020d0d5ef39': true,
   '0x3e4796410c871c6e5f7dbd7c22fb7954bf998cfd': true,
-  '0x3efec9925973afe87cbfe219dfe31fbba4266369': true,
   '0x3f72fc4b4adbea829c90624207b043372de78624': true,
   '0x3f940280391c7356b68ea8e808c2108262d15409': true,
   '0x3fec716797f6b5d4ee38fae8cc61df06b1423cfe': true,

@@ -17554,28 +17554,6 @@
     ]
   },
   {
-    "groupName": "0x08e0f0de1e81051826464043e7ae513457b27a86",
-    "notes": "",
-    "totalConnectedAddresses": 105,
-    "totalEliminatedAddresses": 14,
-    "eliminatedAddresses": [
-      "0x08e0f0de1e81051826464043e7ae513457b27a86",
-      "0xab23b0a50b97604b2c470cd963b1a1c3edc203a7",
-      "0x593c83a667fe41c911abf4ce1711f060c296e2a4",
-      "0x78cfdea24d4c9603ba523b1641c066f48424dcc9",
-      "0x87d2b8066b92fb446a16a4ba918ad949d41b6a83",
-      "0x8410c33638bf4d20dec40d67e8ceb3f17bdf2acc",
-      "0x8d6593685ae4d493080516202f0183234306b6e4",
-      "0x7f2d0a55d34008c6ee1e20e9a23c33e28e20a4dd",
-      "0xcf6eabf474b640ca654ed98599908ce7e83ca6e8",
-      "0xdb6a710436166da085052688c0c1cc5d7852fee0",
-      "0xe55670a4575f3a0553fb207734a7860871d55e26",
-      "0xee70c887383a5a0a7d066086cff27b7b0c06f875",
-      "0x2ffa0bdcdbe9132b8a28db192a22d71c53da9287",
-      "0xab12253171a0d73df64b115cd43fe0a32feb9daa"
-    ]
-  },
-  {
     "groupName": "0xcda2c16bdddb30ae9ef4249c3f14cd5e05355842",
     "notes": "",
     "totalConnectedAddresses": 84,
@@ -17892,6 +17870,27 @@
       "0x806de408951b3a0a9cfe5d1c2523c372c2e38c6a",
       "0xefed26699d44065c0219cdbad9e1339d63b94997",
       "0xbf72e57a71b1f3e1fdaf4f7061440fa8e91c5c83"
+    ]
+  },
+  {
+    "groupName": "0x08e0f0de1e81051826464043e7ae513457b27a86",
+    "notes": "",
+    "totalConnectedAddresses": 99,
+    "totalEliminatedAddresses": 13,
+    "eliminatedAddresses": [
+      "0x08e0f0de1e81051826464043e7ae513457b27a86",
+      "0xab23b0a50b97604b2c470cd963b1a1c3edc203a7",
+      "0x593c83a667fe41c911abf4ce1711f060c296e2a4",
+      "0x78cfdea24d4c9603ba523b1641c066f48424dcc9",
+      "0x87d2b8066b92fb446a16a4ba918ad949d41b6a83",
+      "0x8410c33638bf4d20dec40d67e8ceb3f17bdf2acc",
+      "0x8d6593685ae4d493080516202f0183234306b6e4",
+      "0x7f2d0a55d34008c6ee1e20e9a23c33e28e20a4dd",
+      "0xcf6eabf474b640ca654ed98599908ce7e83ca6e8",
+      "0xdb6a710436166da085052688c0c1cc5d7852fee0",
+      "0xe55670a4575f3a0553fb207734a7860871d55e26",
+      "0xee70c887383a5a0a7d066086cff27b7b0c06f875",
+      "0x2ffa0bdcdbe9132b8a28db192a22d71c53da9287"
     ]
   },
   {

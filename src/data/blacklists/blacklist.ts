@@ -1153,6 +1153,7 @@ const blacklist: Record<string, boolean> = {
   '0x240df0da944c11428eb9f8ad197cc211fd8d82ef': true, // non-bot user
   '0xd4fc1974bfb6721785ca25828711d76a0fc2fea3': true, // non-bot user
   '0xb6ca7a7c6034a8219af7ddb49739bd70ac62b20a': true, // non-bot user
+  '0xab12253171a0d73df64b115cd43fe0a32feb9daa': true, // non-bot user
   '0x8314125c8b68af2afd0d151eb4a551e88128a2ae': true, // thales
   '0x7e4a8391c728fed9069b2962699ab416628b19fa': true, // dharma deployer
   '0x4b5922abf25858d012d12bb1184e5d3d0b6d6be4': true, // verify nifty deployer
