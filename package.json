@@ -9,8 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "rimraf output",
     "get-addresses-on-eligible-list": "ts-node ./src/scripts/getAddressesOnEligibleList.ts",
-    "get-sybil-report-token-amount": "ts-node ./src/scripts/getSybilReportTokenAmount.ts",
-    "get-same": "ts-node ./src/scripts/getSame.ts"
+    "get-sybil-report-token-amount": "ts-node ./src/scripts/getSybilReportTokenAmount.ts"
   },
   "author": "",
   "license": "ISC",
