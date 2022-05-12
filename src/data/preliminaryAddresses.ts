@@ -8266,7 +8266,6 @@ const preliminaryAddresses: Record<string, boolean> = {
   '0x3056f2f32acf4409c57198c24c2ec37cbb7b7025': true,
   '0x305878689e5f0cedb66b1875c1a0fd04af5d3d27': true,
   '0x3058a0d5e8e1a7b15dbf13eb3d411ee3efea70d9': true,
-  '0x305933e09871d4043b5036e09af794facb3f6170': true,
   '0x305a41f9582b704224240908d5880393c7c1cfc7': true,
   '0x305ea6f95e1d3f2d1152bc3f6b7c412504da09ac': true,
   '0x30602250c5f1fcba5407e99b1dfaab992ea4ffd2': true,

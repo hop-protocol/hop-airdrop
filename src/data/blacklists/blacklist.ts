@@ -125,6 +125,7 @@ const blacklist: Record<string, boolean> = {
   '0x15ec4512516d980090050fe101de21832c8edfee': true,
   '0xd8781ca9163e9f132a4d8392332e64115688013a': true,
   '0x9137a628546e2b1bc26f60a5d1262fb6d58ea44a': true,
+  '0x305933e09871d4043b5036e09af794facb3f6170': true,
 
   // Hop Addresses
   '0x2a6303e6b99d451df3566068ebb110708335658f': true,
