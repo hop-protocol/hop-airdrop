@@ -11790,8 +11790,8 @@
   {
     "groupName": "0x74c3b2d22ed5990b9ab1f77bd3054d4fd4afcf96",
     "notes": "",
-    "totalConnectedAddresses": 417,
-    "totalEliminatedAddresses": 75,
+    "totalConnectedAddresses": 414,
+    "totalEliminatedAddresses": 74,
     "eliminatedAddresses": [
       "0x1868133c60be4a12157fc2fc7795817afb6be991",
       "0x841fe7ad52592d739823df8700c84f0fde99b308",
@@ -11866,7 +11866,6 @@
       "0x0a705722ac02ac9103752fd5ff2061a1515b6135",
       "0x8977b0b287458a2ea98177fbfab852480fa19f5d",
       "0x44e64a22f06e643f897a76847b0aa4972b7f58f2",
-      "0x102c13752113c8d60000bf3fbf9205a80ca245e7",
       "0xb7a9da85021534d5a797e00228c9f84c7b91cde6"
     ]
   },
