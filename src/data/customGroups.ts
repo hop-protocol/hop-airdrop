@@ -4689,7 +4689,7 @@ const customGroups: Group[] = [
       '0x6fb9da9effe5efc81fdf5b6738794e4f764d11ac',
       '0x02efe1b343ec10e06145c078018ec934e4065909',
       '0x691cc277a3824d76e780a465c48fd701101a9456',
-      '0x87fb7cdb08864ee33dd0fb22496912ffec9dde68',
+      '0x87fb7cdb08864ee33dd0fb22496912ffec9dde68'
     ],
     addresses: [
       '0x0e1159a4ff68e88ad82a15fc5bdc0119c03d6c47',
@@ -4828,7 +4828,7 @@ const customGroups: Group[] = [
       '0x6fb9da9effe5efc81fdf5b6738794e4f764d11ac',
       '0x02efe1b343ec10e06145c078018ec934e4065909',
       '0x691cc277a3824d76e780a465c48fd701101a9456',
-      '0x87fb7cdb08864ee33dd0fb22496912ffec9dde68',
+      '0x87fb7cdb08864ee33dd0fb22496912ffec9dde68'
     ]
   },
   {
@@ -4891,6 +4891,62 @@ const customGroups: Group[] = [
       '0xa96be8490e405f3ad61b36fc770cb9e8536730c3'
     ]
   },
+  {
+    groupId: 111157,
+    note: 'GH issue #257',
+    topAddress: '0x578a011481262d559d3df6994905cd858fba0fd2',
+    tokensAwarded: '',
+    preliminaryAddresses: [
+      '0x96f027d110cec6585eba6c14c0a8278b18ee7874',
+      '0x98e594b90b72ac612529b9422af1e747911e94f5',
+      '0x68d3426cc3863c25ca74e2121255022af9ca74f1',
+      '0x22875c65599a76090cb5e213da291b7f4f08acc9',
+      '0x9145f2d784fcb5e7895d5417df3db15ffe803cdf',
+      '0x578a011481262d559d3df6994905cd858fba0fd2',
+      '0xce117883aaa426956f4c04bfbb0dfdbfeb05fc43',
+      '0x84a4532d6398e75b36adbd204766f0a61fc9847b',
+      '0xf05c4c0beb5f2c89589e280ddb38a8a4dc4410ad',
+      '0x43bc98d884dc28dedf523758362f33153dc30b2c',
+      '0xba9213733a47d7604c791c5a77d020e29356c451',
+      '0xfb385af3e2c6b7f2aee9fef7de752d9c41008df8',
+      '0x5b9e3e1a2a12e85e12da784cdc900ced4b012eef',
+      '0x8a65eec7f9f55cea0d2b5c9386a582d744fbf5c1',
+      '0xcad36645facecbd1b3d872ecb86a82fcd09b7ce6',
+      '0xa10d011cbc17b3d7b9819b8f8ea5e0b171536030',
+      '0xf59d5eb13f730fe5675d76cbbd32f9e7f8146d5a',
+      '0x8a60264f0d213b585c684f2bd34c8f9e54a666ab',
+      '0xb11d6caea39f75f7103e642f384bbb7fd26c56c7',
+      '0x6785885a7616b65e26d0d8e2ea772f1daee196b1',
+      '0x5a66b866d65e177d565687fac04545925cddb0a5',
+      '0x30d696354740c18ad3b3968690120f7ea2e09dc7',
+      '0x48bc3c4f6a0867a595288071b5b35e343e4c6dfe'
+    ],
+    addresses: [
+      '0x96f027d110cec6585eba6c14c0a8278b18ee7874',
+      '0x98e594b90b72ac612529b9422af1e747911e94f5',
+      '0x68d3426cc3863c25ca74e2121255022af9ca74f1',
+      '0x22875c65599a76090cb5e213da291b7f4f08acc9',
+      '0x9145f2d784fcb5e7895d5417df3db15ffe803cdf',
+      '0x578a011481262d559d3df6994905cd858fba0fd2',
+      '0xce117883aaa426956f4c04bfbb0dfdbfeb05fc43',
+      '0x84a4532d6398e75b36adbd204766f0a61fc9847b',
+      '0xf05c4c0beb5f2c89589e280ddb38a8a4dc4410ad',
+      '0x43bc98d884dc28dedf523758362f33153dc30b2c',
+      '0xba9213733a47d7604c791c5a77d020e29356c451',
+      '0xfb385af3e2c6b7f2aee9fef7de752d9c41008df8',
+      '0x5b9e3e1a2a12e85e12da784cdc900ced4b012eef',
+      '0x8a65eec7f9f55cea0d2b5c9386a582d744fbf5c1',
+      '0xcad36645facecbd1b3d872ecb86a82fcd09b7ce6',
+      '0xa10d011cbc17b3d7b9819b8f8ea5e0b171536030',
+      '0xf59d5eb13f730fe5675d76cbbd32f9e7f8146d5a',
+      '0x8a60264f0d213b585c684f2bd34c8f9e54a666ab',
+      '0xb11d6caea39f75f7103e642f384bbb7fd26c56c7',
+      '0x6785885a7616b65e26d0d8e2ea772f1daee196b1',
+      '0x5a66b866d65e177d565687fac04545925cddb0a5',
+      '0x30d696354740c18ad3b3968690120f7ea2e09dc7',
+      '0x48bc3c4f6a0867a595288071b5b35e343e4c6dfe'
+    ]
+  }
 ]
 
 export default customGroups
