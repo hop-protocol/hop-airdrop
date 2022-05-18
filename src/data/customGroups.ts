@@ -6130,6 +6130,52 @@ const customGroups: Group[] = [
       '0xb713df754bbf37db676e2b49d62d5f9532b56746',
       '0xcef9f507f4fb76d8f4997a52b64b59be059c4945'
     ]
+  },
+  {
+    groupId: 111175,
+    note: 'GH issue #356',
+    topAddress: '0xba07e5cb42ca05d2fc3d96514461d7245050eb7b',
+    tokensAwarded: '3542.757087604775790891',
+    preliminaryAddresses: [
+      '0xba07e5cb42ca05d2fc3d96514461d7245050eb7b',
+      '0x62d1556564aca67d7f92c61e1946a02d83255cb2',
+      '0xe6e2e69030c82afe3de8e0e5f3d422aca43879a2',
+      '0x46dd1320b44329dcab2ce3913f0f43ccfec871b0',
+      '0xbd5f7f276d94afcac1505f93a98c0ec39a6e6a23',
+      '0x4d184e5198ee0b9d646cd450243daebeb6b8cc86',
+      '0x21fa2cf8e56b9938402a7e08703bfbe4be0943fb',
+      '0x87f1d3359334a6c2ff5e189a91605eade8e05459',
+      '0x896d6845fe202b70805212e372fe29be84682fe3',
+      '0x84f665281b5aa35b9cf5ebf47227daf263f267ac',
+      '0x62efcd67ee9ae5cb4d6e595db9ee3861e50a45bc',
+      '0x2347b1b2b8cd9ee89ce4fa8c12f05bf65eb123e7',
+      '0xa3b9fe8647aa9d7009b9a7ad1d8d4a2381994efa',
+      '0x6ea6bc1823f6ff7b55edf80895d053bcd1029b13',
+      '0x13bcd144a13fedd803d70f248fe99ca2aac5e9ac',
+      '0x4ad9f09e879b483abbf27872868d72db4d1b0e72',
+      '0x20959d71a7ec0212af1b649bdb4220a9fec3fbfd',
+      '0x0d0206f970bd67965b410956184c1f87b8ce182a'
+    ],
+    addresses: [
+      '0xba07e5cb42ca05d2fc3d96514461d7245050eb7b',
+      '0x62d1556564aca67d7f92c61e1946a02d83255cb2',
+      '0xe6e2e69030c82afe3de8e0e5f3d422aca43879a2',
+      '0x46dd1320b44329dcab2ce3913f0f43ccfec871b0',
+      '0xbd5f7f276d94afcac1505f93a98c0ec39a6e6a23',
+      '0x4d184e5198ee0b9d646cd450243daebeb6b8cc86',
+      '0x21fa2cf8e56b9938402a7e08703bfbe4be0943fb',
+      '0x87f1d3359334a6c2ff5e189a91605eade8e05459',
+      '0x896d6845fe202b70805212e372fe29be84682fe3',
+      '0x84f665281b5aa35b9cf5ebf47227daf263f267ac',
+      '0x62efcd67ee9ae5cb4d6e595db9ee3861e50a45bc',
+      '0x2347b1b2b8cd9ee89ce4fa8c12f05bf65eb123e7',
+      '0xa3b9fe8647aa9d7009b9a7ad1d8d4a2381994efa',
+      '0x6ea6bc1823f6ff7b55edf80895d053bcd1029b13',
+      '0x13bcd144a13fedd803d70f248fe99ca2aac5e9ac',
+      '0x4ad9f09e879b483abbf27872868d72db4d1b0e72',
+      '0x20959d71a7ec0212af1b649bdb4220a9fec3fbfd',
+      '0x0d0206f970bd67965b410956184c1f87b8ce182a'
+    ]
   }
 ]
 
