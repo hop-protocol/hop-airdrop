@@ -6978,6 +6978,40 @@ const customGroups: Group[] = [
       '0xbee71a04d6966dd056f55a9ad2fda1db281e1d9d',
       '0xddd8fc242bdff7feb7d627e9b350176293756424'
     ]
+  },
+  {
+    groupId: 111195,
+    note: 'GH issue #387',
+    topAddress: '0x2b7d76047b7c452df3894de7ec1816613e6d6a0b',
+    tokensAwarded: '3614.71031935161438555',
+    preliminaryAddresses: [
+      '0x597ddaf79527d46a3d838ed4b06bb37ebba8fc87',
+      '0x53cfbfe27706bb10f765e7ef64912533e215d724',
+      '0x226d0832f19396d747ba74bef1436f14171c5e2d',
+      '0x9b98a74aaa8ef218bd3f69c46d9eba831e444804',
+      '0x2d85c30b8684669420996415efc0c1dfd87d79d5',
+      '0x3fb382e6ca785857c907ac0f07a0361ff1f4d8b9',
+      '0x7e49ce9ae98313e8b55cc58779083a47462139fe',
+      '0x98381d34fe2a7ef6d8ddfa4024c5aaed836144d0',
+      '0x2b45ba3a51c0ecd4504845bf1cababd5f362121b',
+      '0x2b7d76047b7c452df3894de7ec1816613e6d6a0b',
+      '0x01ef4da8a54072ec387ec227a54a1ac9316252f4',
+      '0x074650d0e4957fbaa40fb15cca4407878100d979'
+    ],
+    addresses: [
+      '0x597ddaf79527d46a3d838ed4b06bb37ebba8fc87',
+      '0x53cfbfe27706bb10f765e7ef64912533e215d724',
+      '0x226d0832f19396d747ba74bef1436f14171c5e2d',
+      '0x9b98a74aaa8ef218bd3f69c46d9eba831e444804',
+      '0x2d85c30b8684669420996415efc0c1dfd87d79d5',
+      '0x3fb382e6ca785857c907ac0f07a0361ff1f4d8b9',
+      '0x7e49ce9ae98313e8b55cc58779083a47462139fe',
+      '0x98381d34fe2a7ef6d8ddfa4024c5aaed836144d0',
+      '0x2b45ba3a51c0ecd4504845bf1cababd5f362121b',
+      '0x2b7d76047b7c452df3894de7ec1816613e6d6a0b',
+      '0x01ef4da8a54072ec387ec227a54a1ac9316252f4',
+      '0x074650d0e4957fbaa40fb15cca4407878100d979'
+    ]
   }
 ]
 
