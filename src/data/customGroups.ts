@@ -4835,7 +4835,7 @@ const customGroups: Group[] = [
     groupId: 111155,
     note: 'GH issue #275',
     topAddress: '0x8450dc9630511500be6bc9c44f928444b3919231',
-    tokensAwarded: '7462.005304128930293063',
+    tokensAwarded: '4965.747800850599760183',
     preliminaryAddresses: [
       '0x8450dc9630511500be6bc9c44f928444b3919231',
       '0xbfc61fafa0fb8a1475a69e71f28f056c00ed62c2',
@@ -4846,7 +4846,17 @@ const customGroups: Group[] = [
       '0x673cc0f66876f4bc78c1301045d7adf06f273f91',
       '0xef26700f41c5129fd606ad32f84fa8651e2ccc12',
       '0x652ceb9f495eb694b10a4e39ea9c0e4d4d261e24',
-      '0xa96be8490e405f3ad61b36fc770cb9e8536730c3'
+      '0xa96be8490e405f3ad61b36fc770cb9e8536730c3',
+      '0x88dbfc20d2f2bc004d4dde1947deda4cd478dd0d',
+      '0x72f60aa98c4a1d4c75e5e436fb3f98ea85cc1a3d',
+      '0x633ccab60e6f010c5f9ca86be620cea252e00960',
+      '0x43574a11f5a783db442b74b902c7567326fdd293',
+      '0xd524dafabefeff3adc021d23783a7fee771833fd',
+      '0x27eb7ea0611347d72506c7fd3210afe2a8b213e9',
+      '0x61144f133cee6eb6a3cb1e7a22dacfe57fd625e4',
+      '0x3fc137a4d127356962c0ff60fdb1a1ae3546a06a',
+      '0xa5edd760b959c1fae53ae50b92a278b5eee47c55',
+      '0xedfe14fceb460cdb4b3b0128e073631165dbfea8'
     ],
     addresses: [
       '0x8450dc9630511500be6bc9c44f928444b3919231',
@@ -4858,7 +4868,17 @@ const customGroups: Group[] = [
       '0x673cc0f66876f4bc78c1301045d7adf06f273f91',
       '0xef26700f41c5129fd606ad32f84fa8651e2ccc12',
       '0x652ceb9f495eb694b10a4e39ea9c0e4d4d261e24',
-      '0xa96be8490e405f3ad61b36fc770cb9e8536730c3'
+      '0xa96be8490e405f3ad61b36fc770cb9e8536730c3',
+      '0x88dbfc20d2f2bc004d4dde1947deda4cd478dd0d',
+      '0x72f60aa98c4a1d4c75e5e436fb3f98ea85cc1a3d',
+      '0x633ccab60e6f010c5f9ca86be620cea252e00960',
+      '0x43574a11f5a783db442b74b902c7567326fdd293',
+      '0xd524dafabefeff3adc021d23783a7fee771833fd',
+      '0x27eb7ea0611347d72506c7fd3210afe2a8b213e9',
+      '0x61144f133cee6eb6a3cb1e7a22dacfe57fd625e4',
+      '0x3fc137a4d127356962c0ff60fdb1a1ae3546a06a',
+      '0xa5edd760b959c1fae53ae50b92a278b5eee47c55',
+      '0xedfe14fceb460cdb4b3b0128e073631165dbfea8'
     ]
   },
   {
