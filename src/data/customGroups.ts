@@ -8934,6 +8934,48 @@ const customGroups: Group[] = [
       '0xdf61f0b092cf5f1f5aaaf591ac9641b1cc5fdb12',
       '0x19b9b94de7e59ed152da4690495017aa2fb752ae'
     ]
+  },
+  {
+    groupId: 111242,
+    note: 'GH issue #545',
+    topAddress: '0x17e8bdec8b85199738b825bb14d53dd69e5625c2',
+    tokensAwarded: '4532.209690824997680204',
+    preliminaryAddresses: [
+      '0x4b13b4d3f1192422e8db1563f851e7ff467b2d0d',
+      '0x4b18c3121ce1a80496b028a9095cdead141366e3',
+      '0x89a66b0effdb5074e50748f0083a246b2c5c621a',
+      '0x17e8bdec8b85199738b825bb14d53dd69e5625c2',
+      '0x2e70fa954e45f2cff8d82fccfba8375afbbae4a9',
+      '0x4284feeae7ac81e60a3d22318a8327acc6d9dc6d',
+      '0x2b33ac379ed6e209f113bec45debe596e3fab018',
+      '0x3ec55494a44a107588b357fe460fe20d7b504acf',
+      '0x38d4cc271cd304b9a07f6d4c826c54cf8949cd22',
+      '0x8c822d20bda9a834103722e71ab285816005e20c',
+      '0x41044098fd1cef279fddeb2fcc6e66a6a9951a6d',
+      '0x6dae0592975b835ff07f400f3faba0e6dbce18c6',
+      '0x6cd09702ef6068b4a6b651c0c0abe0f0e4221426',
+      '0x92c9296c1040f1a9f49752b187011b0ad956f198',
+      '0xa3cb76ea9ba089a0f5094ccc4b199c106e39f28f',
+      '0x9b12c7e35dfc152f6e3f161cb9e7234f25533d7f'
+    ],
+    addresses: [
+      '0x4b13b4d3f1192422e8db1563f851e7ff467b2d0d',
+      '0x4b18c3121ce1a80496b028a9095cdead141366e3',
+      '0x89a66b0effdb5074e50748f0083a246b2c5c621a',
+      '0x17e8bdec8b85199738b825bb14d53dd69e5625c2',
+      '0x2e70fa954e45f2cff8d82fccfba8375afbbae4a9',
+      '0x4284feeae7ac81e60a3d22318a8327acc6d9dc6d',
+      '0x2b33ac379ed6e209f113bec45debe596e3fab018',
+      '0x3ec55494a44a107588b357fe460fe20d7b504acf',
+      '0x38d4cc271cd304b9a07f6d4c826c54cf8949cd22',
+      '0x8c822d20bda9a834103722e71ab285816005e20c',
+      '0x41044098fd1cef279fddeb2fcc6e66a6a9951a6d',
+      '0x6dae0592975b835ff07f400f3faba0e6dbce18c6',
+      '0x6cd09702ef6068b4a6b651c0c0abe0f0e4221426',
+      '0x92c9296c1040f1a9f49752b187011b0ad956f198',
+      '0xa3cb76ea9ba089a0f5094ccc4b199c106e39f28f',
+      '0x9b12c7e35dfc152f6e3f161cb9e7234f25533d7f'
+    ]
   }
 ]
 
