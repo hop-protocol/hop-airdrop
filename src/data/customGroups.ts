@@ -4882,7 +4882,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111157,
+    groupId: 111156,
     note: 'GH issue #257',
     topAddress: '0x578a011481262d559d3df6994905cd858fba0fd2',
     tokensAwarded: '4531.52955618772',
@@ -4938,7 +4938,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111158,
+    groupId: 111157,
     note: 'GH issue #276',
     topAddress: '0x45ff01a2f8942e4741f0fa615aa507f98e20dc41',
     tokensAwarded: '8441.818418739836929192',
@@ -4994,7 +4994,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111159,
+    groupId: 111158,
     note: 'GH issue #288',
     topAddress: '0xd08f9476e398f23c3f369bfaa0f405fff9cc6b76',
     tokensAwarded: '3249.759491761803945396',
@@ -5064,7 +5064,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111160,
+    groupId: 111159,
     note: 'GH issue #290',
     topAddress: '0x8d0d16ea140107fb11763fc3b435ca651aabb0cd',
     tokensAwarded: '8763.140577899',
@@ -5144,7 +5144,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111161,
+    groupId: 111160,
     note: 'GH issue #314',
     topAddress: '0xae6f6a949848d6dc3195eadf2125c014e07bd291',
     tokensAwarded: '6570.264385773315894922',
@@ -5262,7 +5262,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111162,
+    groupId: 111161,
     note: 'GH issue #332',
     topAddress: '0x202b03e94692d48ae7ce8024dec1ce0c4600178c',
     tokensAwarded: '',
@@ -5440,7 +5440,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111163,
+    groupId: 111162,
     note: 'GH issue #308',
     topAddress: '0x99d6d24012361620bfa1a3f16d4e745066fc7c69',
     tokensAwarded: '6315.559681513708732175',
@@ -5490,7 +5490,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111164,
+    groupId: 111163,
     note: 'GH issue #345',
     topAddress: '0x4a17cc793d69680a5eec51262f0d3f26d4364b90',
     tokensAwarded: '2894.43709424744089139',
@@ -5536,7 +5536,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111165,
+    groupId: 111164,
     note: 'GH issue #177',
     topAddress: '0x73fe6db3b797ea23e0e5433541d6e179a896c697',
     tokensAwarded: '6628.753622270106756523',
@@ -5586,7 +5586,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111166,
+    groupId: 111165,
     note: 'GH issue #259',
     topAddress: '0xb02248b9a53bc98827f77cf8dc312ca8a42c4fca',
     tokensAwarded: '3516.699719009539755075',
@@ -5648,7 +5648,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111167,
+    groupId: 111166,
     note: 'GH issue #346',
     topAddress: '0xf7ce5f7a13dee8ba402fa750088e478db1f2b4f4',
     tokensAwarded: '7951.132882408009164021',
@@ -5706,7 +5706,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111168,
+    groupId: 111167,
     note: 'GH issue #349',
     topAddress: '0x03b95d7b0ddf7cf406cbbf42a52551ef0498bcdd',
     tokensAwarded: '9788.836969078916087876',
@@ -5810,7 +5810,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111169,
+    groupId: 111168,
     note: 'GH issue #354',
     topAddress: '0x498ea383d5736635afcf72caddcc86b809e06cdb',
     tokensAwarded: '6682.762070422713725394',
@@ -5874,7 +5874,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111170,
+    groupId: 111169,
     note: 'GH issue #363',
     topAddress: '0xd32695e46ca56fc6ead344c0d68f2ac7ea400879',
     tokensAwarded: '4367.429809753355113344',
@@ -5922,7 +5922,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111171,
+    groupId: 111170,
     note: 'GH issue #364',
     topAddress: '0xcac0b640c75c5629a57a388d294226e6fd9666f3',
     tokensAwarded: '2919.738533629433120345',
@@ -5972,7 +5972,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111172,
+    groupId: 111171,
     note: 'GH issue #365',
     topAddress: '0x5f07dd4cbf37328b6529691ddabc6a0125ae3182',
     tokensAwarded: '2234.145420016935402838',
@@ -6016,7 +6016,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111173,
+    groupId: 111172,
     note: 'GH issue #366',
     topAddress: '0x457d3eb4d849afbab1631c2792495c8443c9b38b',
     tokensAwarded: '3252.189489645225050938',
@@ -6068,7 +6068,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111174,
+    groupId: 111173,
     note: 'GH issue #379',
     topAddress: '0x6eba5b898e9e24c1fd0062025ed96fa751170ec4',
     tokensAwarded: '3602.27281012368100166',
@@ -6124,7 +6124,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111175,
+    groupId: 111174,
     note: 'GH issue #356',
     topAddress: '0xba07e5cb42ca05d2fc3d96514461d7245050eb7b',
     tokensAwarded: '3542.757087604775790891',
@@ -6170,7 +6170,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111176,
+    groupId: 111175,
     note: 'GH issue #377',
     topAddress: '0x4dc23e91fcd7693551f99642bc1e0ed4664fbddd',
     tokensAwarded: '13983.159831042749846212',
@@ -6270,7 +6270,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111177,
+    groupId: 111176,
     note: 'GH issue #380',
     topAddress: '0xf4f4307968241b07d0878669c1acbfe89d17f1b0',
     tokensAwarded: '6363.702414212126218252',
@@ -6324,7 +6324,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111178,
+    groupId: 111177,
     note: 'GH issue #28',
     topAddress: '0xc06375093147d626676568475a341ba48f058cf0',
     tokensAwarded: '14740.587636679547101646',
@@ -6428,7 +6428,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111179,
+    groupId: 111178,
     note: 'GH issue #57',
     topAddress: '0x8ca23135f5bb829becccb327482bcd2417ff5b47',
     tokensAwarded: '1696.17401830068178953',
@@ -6458,7 +6458,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111180,
+    groupId: 111179,
     note: 'GH issue #70',
     topAddress: '0xe882b4303563d2ed3b7b704054740eba3b74f5cd',
     tokensAwarded: '1710.380033816677102159',
@@ -6498,7 +6498,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111181,
+    groupId: 111180,
     note: 'GH issue #71',
     topAddress: '0x9c2d251f1b5a3ce2201c3da84ee470801bee9eba',
     tokensAwarded: '1366.639866051805117192',
@@ -6528,7 +6528,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111182,
+    groupId: 111181,
     note: 'GH issue #167',
     topAddress: '0x1dbe0842519e7fe60f4772db5e9f6c2b2d733340',
     tokensAwarded: '1782.100537628024972483',
@@ -6562,7 +6562,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111183,
+    groupId: 111182,
     note: 'GH issue #226',
     topAddress: '0xdb5fc4f5ec60be74c2aa0eb5e4cd38f426ffe91e',
     tokensAwarded: '2278.71340341872426288',
@@ -6608,7 +6608,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111184,
+    groupId: 111183,
     note: 'GH issue #239',
     topAddress: '0x47e5d263778b1d6afb4468f92fc7b09b306d7997',
     tokensAwarded: '4031.133285597231326742',
@@ -6638,7 +6638,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111185,
+    groupId: 111184,
     note: 'GH issue #241',
     topAddress: '0x18005f41c9881f7c1d21e81b1c610381921e5b07',
     tokensAwarded: '3077.912752520787143831',
@@ -6668,7 +6668,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111186,
+    groupId: 111185,
     note: 'GH issue #256',
     topAddress: '0x2fb9ef2438e322620d565b747fb26ab903748c15',
     tokensAwarded: '4007.660252675810461216',
@@ -6702,7 +6702,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111187,
+    groupId: 111186,
     note: 'GH issue #330',
     topAddress: '0xc19197e0a52d8c19c08752b1705c01d57dbf327a',
     tokensAwarded: '4200.425620708540507839',
@@ -6736,7 +6736,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111188,
+    groupId: 111187,
     note: 'GH issue #331',
     topAddress: '0x732a38e6248109693bf63db97965f6cb6b087d2d',
     tokensAwarded: '1537.048272171410829876',
@@ -6772,7 +6772,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111189,
+    groupId: 111188,
     note: 'GH issue #299',
     topAddress: '0x33929cbafbd7f2df4b7f38b5dd318d2c788dc564',
     tokensAwarded: '5789.028658885910979527',
@@ -6812,7 +6812,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111190,
+    groupId: 111189,
     note: 'GH issue #336',
     topAddress: '0xfe49f4b4650f7d45ae3b24419d161831f6b058db',
     tokensAwarded: '3370.768133975216812525',
@@ -6854,7 +6854,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111191,
+    groupId: 111190,
     note: 'GH issue #217',
     topAddress: '0x07b3e12359a738171e2872f4db665fe91bcbadbe',
     tokensAwarded: '4729.963197524064773809',
@@ -6900,7 +6900,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111192,
+    groupId: 111191,
     note: 'GH issue #216',
     topAddress: '0xfb83a1e514212b114190a586dd4844fa891fcd8f',
     tokensAwarded: '2384.923408266933793152',
@@ -6934,7 +6934,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111193,
+    groupId: 111192,
     note: 'GH issue #376',
     topAddress: '0xd98773be592e521826d52438e03ee7a04d629b76',
     tokensAwarded: '3596.686576763034267799',
@@ -6966,7 +6966,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111194,
+    groupId: 111193,
     note: 'GH issue #383',
     topAddress: '0xb2c68c5df1688953ac0fd81e0e460da59f72e95c',
     tokensAwarded: '2124.098830426460408976',
@@ -7000,10 +7000,10 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111195,
+    groupId: 111194,
     note: 'GH issue #387',
     topAddress: '0x2b7d76047b7c452df3894de7ec1816613e6d6a0b',
-    tokensAwarded: '3614.71031935161438555',
+    tokensAwarded: '3614.7103193516143855',
     preliminaryAddresses: [
       '0x597ddaf79527d46a3d838ed4b06bb37ebba8fc87',
       '0x53cfbfe27706bb10f765e7ef64912533e215d724',
@@ -7034,7 +7034,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111196,
+    groupId: 111195,
     note: 'GH issue #388',
     topAddress: '0x236d06dc4d853bbf7234d457881ed6634b7eaafb',
     tokensAwarded: '4017.386865127362551328',
@@ -7064,7 +7064,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111197,
+    groupId: 111196,
     note: 'GH issue #389',
     topAddress: '0xd0e5122084f90d49cd8ffea056e431f94cb174c3',
     tokensAwarded: '3455.689063814620423677',
@@ -7100,7 +7100,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111198,
+    groupId: 111197,
     note: 'GH issue #391',
     topAddress: '0x1dc3fe11169d32c71b377bc14fb464370f028b5c',
     tokensAwarded: '1207.0974669263211343',
@@ -7130,7 +7130,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111199,
+    groupId: 111198,
     note: 'GH issue #394',
     topAddress: '0x5258a9121ba8bd81372e2de615bdce6e50026305',
     tokensAwarded: '1922.659329862798622936',
@@ -7160,7 +7160,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111200,
+    groupId: 111199,
     note: 'GH issue #396',
     topAddress: '0x156788fb011da6e8e4df62d3b3846ff76cea0cd6',
     tokensAwarded: '2620.823852550740540066',
@@ -7192,7 +7192,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111201,
+    groupId: 111200,
     note: 'GH issue #400',
     topAddress: '0xe606a84769f24508a84ff53f0dde1aaaefaeee27',
     tokensAwarded: '3379.011242222387721718',
@@ -7222,7 +7222,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111202,
+    groupId: 111201,
     note: 'GH issue #412',
     topAddress: '0xfc8acf3cbbf75fb0e53ccecea657b31723be51fd',
     tokensAwarded: '3390.724031903985886803',
@@ -7252,7 +7252,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111203,
+    groupId: 111202,
     note: 'GH issue #414',
     topAddress: '0x91cbfe70de24c40e4a8771ffe58f3eb97b0241ee',
     tokensAwarded: '2603.693217824062758504',
@@ -7282,7 +7282,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111204,
+    groupId: 111203,
     note: 'GH issue #418',
     topAddress: '0x2368ed7c29e8d05be392b5b9bfc81d2e30bc0d33',
     tokensAwarded: '1534.960110583613630641',
@@ -7314,7 +7314,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111205,
+    groupId: 111204,
     note: 'GH issue #420',
     topAddress: '0x4a3bab1c4f52a5cb954a7f30b8f456ec0b6083cd',
     tokensAwarded: '2369.945313737110928631',
@@ -7385,7 +7385,6 @@ const customGroups: Group[] = [
     topAddress: '0xfe3520eadc2e145bf40f56253458fde009cde5eb',
     tokensAwarded: '3724.293489559566329378',
     preliminaryAddresses: [
-      '0x336f6beca25aed6bc4b4f9e6ef5b3eb415aeca67',
       '0x5d87651715d206246b2f37485180434e5547195c',
       '0x873bf18ad73f3e08bd4487226668b36aae881f43',
       '0xdc9503e7e28e7b13444372bc03568407a09173d6',
@@ -7398,7 +7397,6 @@ const customGroups: Group[] = [
       '0x385038ab5c761fede48316fd149354149a0d8feb'
     ],
     addresses: [
-      '0x336f6beca25aed6bc4b4f9e6ef5b3eb415aeca67',
       '0x5d87651715d206246b2f37485180434e5547195c',
       '0x873bf18ad73f3e08bd4487226668b36aae881f43',
       '0xdc9503e7e28e7b13444372bc03568407a09173d6',
@@ -7934,7 +7932,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111222,
+    groupId: 111221,
     note: 'GH issue #506',
     topAddress: '0x324573a3d659eb0069262da78deef0c69ee63a1c',
     tokensAwarded: '4086.871320850442461238',
@@ -7964,7 +7962,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111223,
+    groupId: 111222,
     note: 'GH issue #406',
     topAddress: '0x18d072a783fae1ac81af576276dc1561cfba1013',
     tokensAwarded: '1349.121545144319838824',
@@ -7994,7 +7992,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111224,
+    groupId: 111223,
     note: 'GH issue #484',
     topAddress: '0x016677f3a6208c9b136040dc57f7ebc9bc9af7bc',
     tokensAwarded: '1804.979753740259660043',
@@ -8030,7 +8028,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111225,
+    groupId: 111224,
     note: 'GH issue #367',
     topAddress: '0xff04899df279d764939ca51093965dbe268af99e',
     tokensAwarded: '10798.496642073797830982',
@@ -8104,7 +8102,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111226,
+    groupId: 111225,
     note: 'GH issue #505',
     topAddress: '0xe38dafbe7e10cd4defbfbe539b05a68c071ee497',
     tokensAwarded: '1874.56332599158204676',
@@ -8142,7 +8140,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111227,
+    groupId: 111226,
     note: 'GH issue #513',
     topAddress: '0x38f8e58554373f1ebc7b5596f4d39ccb74ad060a',
     tokensAwarded: '2047.291032247580042108',
@@ -8172,7 +8170,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111228,
+    groupId: 111227,
     note: 'GH issue #515',
     topAddress: '0xd5fae9a76de0bf1063eee5d4ae05be77cb08e68a',
     tokensAwarded: '3475.391220974908031283',
@@ -8204,7 +8202,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111229,
+    groupId: 111228,
     note: 'GH issue #516',
     topAddress: '0xab37485b3ccaaead38601017d52a0670559a9aba',
     tokensAwarded: '11236.661437755908586035',
@@ -8282,7 +8280,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111230,
+    groupId: 111229,
     note: 'GH issue #520',
     topAddress: '0x9ea5e46dfbd4732ecef62ebde854f363265692e0',
     tokensAwarded: '5452.360598242919220667',
@@ -8344,7 +8342,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111231,
+    groupId: 111230,
     note: 'GH issue #522',
     topAddress: '0x49a2a4850461d5c871356c85983e2a5d0daf7eff',
     tokensAwarded: '4211.35825899112849345',
@@ -8414,7 +8412,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111232,
+    groupId: 111231,
     note: 'GH issue #524',
     topAddress: '0xd9a7b5ba79fa7135a93d695685e56bf343d06e74',
     tokensAwarded: '5196.990521537816758467',
@@ -8526,7 +8524,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111233,
+    groupId: 111232,
     note: 'GH issue #527',
     topAddress: '0xae02f6c3b8e944b0ba03e4129c5e8be92500db33',
     tokensAwarded: '1902.257399300895330307',
@@ -8564,7 +8562,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111234,
+    groupId: 111233,
     note: 'GH issue #528',
     topAddress: '0x4087da108efb21754272700155609dd0f64ee960',
     tokensAwarded: '1944.139033434967689249',
@@ -8596,7 +8594,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111235,
+    groupId: 111234,
     note: 'GH issue #530',
     topAddress: '0xda2aecfbc9bec8e76a67636f08d11ed24ac58098',
     tokensAwarded: '3645.547157316549388347',
@@ -8638,7 +8636,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111236,
+    groupId: 111235,
     note: 'GH issue #532',
     topAddress: '0x84f1faf1458e8dab8e0454f8b62305dca75a9ba4',
     tokensAwarded: '4490.244082635480174146',
@@ -8674,7 +8672,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111237,
+    groupId: 111236,
     note: 'GH issue #533',
     topAddress: '0x2d220b4783a291abb2db3618bc4d94c632e16206',
     tokensAwarded: '3081.505635441343423516',
@@ -8712,7 +8710,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111238,
+    groupId: 111237,
     note: 'GH issue #540',
     topAddress: '0xed98ed13fd44d169af39b23e757e84e1c17e0a02',
     tokensAwarded: '3652.365200129794039512',
@@ -8764,7 +8762,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111239,
+    groupId: 111238,
     note: 'GH issue #542',
     topAddress: '0x280262673276b286904f1347dc56a01f9f580f17',
     tokensAwarded: '3818.598304094527123354',
@@ -8804,7 +8802,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111240,
+    groupId: 111239,
     note: 'GH issue #543',
     topAddress: '0x633c775d3ede3d857e3c0392c6093dd815024e15',
     tokensAwarded: '5000.918810308851934471',
@@ -8844,7 +8842,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111241,
+    groupId: 111240,
     note: 'GH issue #544',
     topAddress: '0x84bc95f653158a23529970fd8e9a1c4a720d63e1',
     tokensAwarded: '4385.063512046961115959',
@@ -8896,7 +8894,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111242,
+    groupId: 111241,
     note: 'GH issue #545',
     topAddress: '0x17e8bdec8b85199738b825bb14d53dd69e5625c2',
     tokensAwarded: '4532.209690824997680204',
@@ -8938,7 +8936,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111243,
+    groupId: 111242,
     note: 'GH issue #547',
     topAddress: '0x4dac4279533f2cca9eaef23768d8233ae6b4882f',
     tokensAwarded: '2888.610948848347097108',
@@ -8968,7 +8966,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111244,
+    groupId: 111243,
     note: 'GH issue #552',
     topAddress: '0xaa36df61abde7dd6069198aaa8357905a7f7803e',
     tokensAwarded: '2081.349592949501593359',
@@ -8986,7 +8984,7 @@ const customGroups: Group[] = [
       '0x0da8146418de2e5a012a5a0353025e7f56dbb501',
       '0xa7f629dd67e56c91ba12ae089651d2eba0e1683e',
       '0xaa36df61abde7dd6069198aaa8357905a7f7803e',
-      '0xd8a0f449e46942ac38e4dd932fe9db8fc3cff6fe'
+      '0xd8a0f449e46942ac38e4dd932fe9db8fc3cff6fe',
     ],
     addresses: [
       '0xc371a857d4b1686d8bb3a84e79ecdf64d801d561',
@@ -9006,7 +9004,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111245,
+    groupId: 111244,
     note: 'GH issue #446',
     topAddress: '0x7176edff11f345d7ff889559a9f6135a6da098cc',
     tokensAwarded: '1055.007241931983582662',
@@ -9036,7 +9034,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111246,
+    groupId: 111245,
     note: 'GH issue #577',
     topAddress: '0x464e7093d04229e69270939d114e4ec14538219a',
     tokensAwarded: '5786.331278396669057387',
@@ -9078,7 +9076,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111247,
+    groupId: 111246,
     note: 'GH issue #580',
     topAddress: '0xbda0254af2522dabe34e9f28c0cd6104223cc75b',
     tokensAwarded: '4618.317132710664805879',
@@ -9120,7 +9118,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111248,
+    groupId: 111247,
     note: 'GH issue #581',
     topAddress: '0x893ca0f0f27c7e19845e3b983023e273c32cbfad',
     tokensAwarded: '1107.286915120437438992',
@@ -9150,7 +9148,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111249,
+    groupId: 111248,
     note: 'GH issue #586',
     topAddress: '0xb969b9fc468c497fdb7f5a8d11962546eacfadb3',
     tokensAwarded: '3990.621987669705264822',
@@ -9184,7 +9182,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111250,
+    groupId: 111249,
     note: 'GH issue #587',
     topAddress: '0x7fa2f92fc109e1f5cf47580325eeafa7c0e9d690',
     tokensAwarded: '8106.560783992427090414',
@@ -9246,7 +9244,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111251,
+    groupId: 111250,
     note: 'GH issue #531',
     topAddress: '0x8c8b07c2501b3a3b034202ba11f270cfe5f11c27',
     tokensAwarded: '3557.207000799330004568',
@@ -9282,7 +9280,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111252,
+    groupId: 111251,
     note: 'GH issue #564',
     topAddress: '0x762d5548ea30bbf09adb153d0a0ceae75ab418cf',
     tokensAwarded: '3282.999463404596101947',
@@ -9312,7 +9310,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111253,
+    groupId: 111252,
     note: 'GH issue #566',
     topAddress: '0xbbd713f0de4acd0596a4a667663bfc4d1893f59c',
     tokensAwarded: '1590.211852364141779838',
@@ -9342,7 +9340,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111254,
+    groupId: 111253,
     note: 'GH issue #582',
     topAddress: '0x7961cea5f1066f1f87ef71b080f3caa929db848b',
     tokensAwarded: '2802.014351555928343429',
@@ -9382,7 +9380,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111255,
+    groupId: 111254,
     note: 'GH issue #588',
     topAddress: '0xd01c69f58e5d5c842c4e9b9045170de186cbf914',
     tokensAwarded: '11212.752679992018808627',
@@ -9470,7 +9468,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111256,
+    groupId: 111255,
     note: 'GH issue #591',
     topAddress: '0x2b63db9f388cd88aa887f7b562d6d3485449d251',
     tokensAwarded: '4857.490945724362420834',
@@ -9530,7 +9528,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111257,
+    groupId: 111256,
     note: 'GH issue #592',
     topAddress: '0xb2b0d0888be896baed48c04af63133ac639fbc9b',
     tokensAwarded: '41791.396437051490853745',
@@ -9856,7 +9854,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111258,
+    groupId: 111257,
     note: 'GH issue #415',
     topAddress: '0xd1bc2dbb8ebc0707ed89499116040a3efc3f97f2',
     tokensAwarded: '3762.744969083291982813',
@@ -9888,7 +9886,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111259,
+    groupId: 111258,
     note: 'GH issue #606',
     topAddress: '0xee93693bd71406deafb603744da08cacb462a329',
     tokensAwarded: '6119.937956052152192438',
@@ -9932,7 +9930,7 @@ const customGroups: Group[] = [
     ]
   },
   {
-    groupId: 111260,
+    groupId: 111259,
     note: 'GH issue #603',
     topAddress: '0x417fc8d69cf124f8a12ca39d61881dd2fbbe2222',
     tokensAwarded: '1698.027658607117101204',
