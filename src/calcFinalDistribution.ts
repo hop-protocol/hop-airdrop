@@ -6,7 +6,8 @@ import {
   snapshotTimestamp,
   earlyUserMultiplier,
   volumeTierMultiplier,
-  totalBridgeUserTokens
+  totalBridgeUserTokens,
+  verifiedAddressChangeMap
 } from './constants'
 import { createObjectCsvWriter } from 'csv-writer'
 import addressMetadata from './data/addressMetadata'
@@ -59,6 +60,10 @@ async function calcFinalDistribution () {
       totalMultipliers += multiplier
     }
 
+    if (verifiedAddressChangeMap[address]) {
+      address = verifiedAddressChangeMap[address]
+    }
+
     addressData[address] = {
       lpTokens,
       hopUserTokens: '0',
@@ -74,6 +79,10 @@ async function calcFinalDistribution () {
   logBaseAirdropTokens(baseAirdropTokens)
 
   addresses.forEach(address => {
+    if (verifiedAddressChangeMap[address]) {
+      address = verifiedAddressChangeMap[address]
+    }
+
     const data = addressData[address]
     if (!data) throw new Error(`Missing address data for ${address}`)
 
