@@ -32,3 +32,6 @@ export const volumeTierMultiplier: {[key: number]: number} = {
   2000: 2
   // default is 1
 }
+
+export const verifiedAddressChangeMap: Record<string, string> = {
+}
