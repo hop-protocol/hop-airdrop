@@ -5265,7 +5265,7 @@ const customGroups: Group[] = [
     groupId: 111161,
     note: 'GH issue #332',
     topAddress: '0x202b03e94692d48ae7ce8024dec1ce0c4600178c',
-    tokensAwarded: '',
+    tokensAwarded: '17392.785695473288952959',
     preliminaryAddresses: [
       '0x202b03e94692d48ae7ce8024dec1ce0c4600178c',
       '0x49aa4e814e486a2a2b609e99eb28340f2162bf17',
