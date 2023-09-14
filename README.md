@@ -1,30 +1,23 @@
-# Hop Airdrop
+#vacancy #Moscow #fulltime #tester
 
-This repo produces the final Hop Airdrop distribution for bridge users and liquidity providers after removing groups of sybil attacker addresses.
+NPP "Digital Solutions" - a developer, manufacturer and supplier (b2b) of telecommunications equipment, strengthens the testing team and is looking for a tester with a desire to develop in the direction of equipment testing.
 
+Tasks:Test telecommunications equipment; Apply test design practices when testing the functions of telecommunications equipment;
+Participate in the development and updating of the network equipment testing plan; Develop functional tests of network equipment and test scenarios for its application; 
 
-## Reporting a group of Sybil attacker addresses
+Carry out load and functional testing of network equipment using Sprint and Xinertel test suites;Test graphical (WEB) and text (CLI) interface of network equipment; Our expectations for the candidate:Knowledge in telecommunications and networks (TCP/IP stack, switching, routing)Knowledge of testing theory;
 
-To report a group of Sybil attacker addresses, create an issue on this repo and use the "Sybil Attacker Report" template.
+High learning ability and susceptibility to new things;English at the level of reading technical documentation; Higher technical education, possibly final year students.
 
-Rules:
-* Reports will be reviewed on a first-come, first serve basis.
-* Reports must contain at least 10 address still in `/src/data/eligibleAddresses.txt` at the time of review
-* Reports related to the Hop liquidity provider airdrop will not be considered since the liquidity provider airdrop was based on the amount and time liquidity was provided and does not need Sybil resistance.
-* The methodology must be well explained and easy to understand. Self-reports can provide a list of signatures of "HOP_SYBIL_REPORT" to prove ownership of all reported addresses.
-* Methodology that has a non-negligible chance of eliminating legitimate users will not be considered
+We offer:Work in the office 5/2 (m.Avis motorways), the beginning of the working day is flexible (from 08:00 to 11:00 you can start working);
+The level of income based on the results of the interview and based on the wishes of the candidate;
+Bonuses for closing the stages of projects and the projects themselves;
+Registration in accordance with the Labor Code of the Russian Federation;
+Accreditation of an IT company with a deferment from military service;
+VHI, corporate discounts for a subscription to a fitness club.
 
-Happy hunting 🏹
-
-## Usage
-
-To rerun the final distribution, run:
-
-```
-npm run main
-```
-
-The final distribution can be found at `/src/data/finalDistribution.json` or `/src/data/finalDistribution.csv`
-
-_Note: The calculated final distribution will continue to be updated as sybil attacker groups are added._
-
+Contacts can be contacted:
+Fomina Ekaterina
++7 (915) 7424771
+TG: @kate_4mina
+Email: fomina@dsol.ru
